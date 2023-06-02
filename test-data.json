@@ -1,0 +1,1755 @@
+[
+    {
+        "logoUrl": "https://cdn.shopify.com/app-store/listing_images/6951fc9b8e07b8f54aa813e87fadd8dc/icon/CMaXn8L0lu8CEAE=.jpg",
+        "storeUrl": "https://apps.shopify.com/theme-updater-by-out-of-the-sandbox",
+        "name": "Theme Updater Plus",
+        "rating": 3.2,
+        "reviewsCount": 234,
+        "pricingPlans": [
+            {
+                "name": "Updater Starter",
+                "monthlyPrice": null,
+                "features": [
+                    "Register your theme",
+                    "Install the latest version of your theme",
+                    "Receive email notifications for new versions"
+                ]
+            },
+            {
+                "name": "Updater Pro",
+                "monthlyPrice": 9,
+                "features": [
+                    "Preserve most settings and customizations when updating",
+                    "Identify code conflicts in new version",
+                    "Automatically include new language files"
+                ]
+            },
+            {
+                "name": "Vault Starter",
+                "monthlyPrice": 9,
+                "features": [
+                    "500 orders monthly",
+                    "Product backups",
+                    "Theme backups",
+                    "Collection backups",
+                    "Customer backups",
+                    "Order backups",
+                    "Unlimited restores",
+                    "Rolling 30-day history"
+                ]
+            },
+            {
+                "name": "Vault Pro",
+                "monthlyPrice": 29,
+                "features": [
+                    "850 orders monthly",
+                    "Product backups",
+                    "Theme backups",
+                    "Collection backups",
+                    "Customer backups",
+                    "Order backups",
+                    "Unlimited restores",
+                    "Rolling 90 day history"
+                ]
+            }
+        ],
+        "description": "Keep your premium theme up to date",
+        "categories": [
+            "Backup",
+            "Store data - Other"
+        ],
+        "reviews": [
+            {
+                "rating": 1,
+                "date": "May 24, 2023",
+                "comment": "Worst customer service. I bought their theme 4 years ago for $425. At first you could upgrade for FREE. Now you have to pay $9 to upgrade. Knowing that from July 28, 2022 to November 2022 there were no less than 6 updates of the theme because each time the new updates had bugs.",
+                "country": "France",
+                "user": "Viking Shop"
+            },
+            {
+                "rating": 1,
+                "date": "May 18, 2023",
+                "comment": "Beware of this company! Do not waste your money. Their current customer service is awful, often referring you to have to \"hire an Expert\" to get your theme even working to a basic point. I purchased mine years back and back then they excelled at helping me to customize it. Not recently. My current theme started to give a bunch of Google Search Console errors and they told me that the only solution was to upgrade to the latest version to get those solved. Ok. After reading these reviews and their notes about this updater app I decided instead to save the money and update it manually. But, even updating the theme manually, their new updated theme is half baked and it needs a lot of coding to get it right to where my previous theme even was. After lots of back and forth (prepare to wait 24-48 hrs for them to get back to you for each response) they would not help even to fix simple issues often referring me to \"hire an Expert\".",
+                "country": "United States",
+                "user": "Health & Light Institute"
+            },
+            {
+                "rating": 2,
+                "date": "Edited May 15, 2023",
+                "comment": "One can only expect that customizations will carry on with the update. This is not what the app does on the FREE version. If you wish to maintain your theme looking sharp, you will have to invest MONTHLY on this app to maintain the latest version of your theme.",
+                "country": "Mexico",
+                "user": "PLOMERIA UNIVERSAL"
+            },
+            {
+                "rating": 5,
+                "date": "May 7, 2023",
+                "comment": "Great customer service!\nByanca went above and beyond to help me and fix whatever I wasn't happy with.",
+                "country": "Canada",
+                "user": "Carolina’s Brownies"
+            },
+            {
+                "rating": 5,
+                "date": "May 5, 2023",
+                "comment": "Very usefull app to upgrade the theme with one mouse click!! It helds us to deliver faster time to market and keep to code base up to date.",
+                "country": "Switzerland",
+                "user": "mojo.swiss"
+            },
+            {
+                "rating": 1,
+                "date": "Edited April 19, 2023",
+                "comment": "If you are looking for somewhere to throw away money, this is it! This app did absolutely NOTHING to preserve my settings or customizations. I bought it because upgrading normally wasn't keeping even some basic settings. Figured this would help. Nope. This was a simple upgraded. Already on shopify 2.0, so not an issue with that.",
+                "country": "United States",
+                "user": "Glowy Zoey"
+            },
+            {
+                "rating": 5,
+                "date": "April 7, 2023",
+                "comment": "We have used this app since its release.\nBe aware of that many 3rd Party Themes does not offer Automatic Theme Updates. You need then to download the newest theme, and do all the customization once again (this can take much time / have a high cost).",
+                "country": "Norway",
+                "user": "ebiketech"
+            },
+            {
+                "rating": 5,
+                "date": "April 5, 2023",
+                "comment": "I have used this app on several occasions and so far it has worked flawlessly. I highly recommend anyone to have this app so they can keep their themes up to day and working properly.",
+                "country": "United States",
+                "user": "Gift Basket Village"
+            },
+            {
+                "rating": 4,
+                "date": "Edited April 5, 2023",
+                "comment": "Me han solucionado el fallo de la aplicación bastante rápido, ahora si que funciona, si bien es cierto que la actualización no es perfecta del todo, requiere algunos ajuste, pero en general mucho mejor. Saludos",
+                "country": "Spain",
+                "user": "PracticOffice"
+            },
+            {
+                "rating": 5,
+                "date": "March 24, 2023",
+                "comment": "This app expedites and eases the process of keeping our theme up-to-date. Customer service is great as well!",
+                "country": "Canada",
+                "user": "Boho Beautiful Shop"
+            },
+            {
+                "rating": 1,
+                "date": "May 24, 2023",
+                "comment": "Worst customer service. I bought their theme 4 years ago for $425. At first you could upgrade for FREE. Now you have to pay $9 to upgrade. Knowing that from July 28, 2022 to November 2022 there were no less than 6 updates of the theme because each time the new updates had bugs.",
+                "country": "France",
+                "user": "Viking Shop"
+            },
+            {
+                "rating": 1,
+                "date": "May 18, 2023",
+                "comment": "Beware of this company! Do not waste your money. Their current customer service is awful, often referring you to have to \"hire an Expert\" to get your theme even working to a basic point. I purchased mine years back and back then they excelled at helping me to customize it. Not recently. My current theme started to give a bunch of Google Search Console errors and they told me that the only solution was to upgrade to the latest version to get those solved. Ok. After reading these reviews and their notes about this updater app I decided instead to save the money and update it manually. But, even updating the theme manually, their new updated theme is half baked and it needs a lot of coding to get it right to where my previous theme even was. After lots of back and forth (prepare to wait 24-48 hrs for them to get back to you for each response) they would not help even to fix simple issues often referring me to \"hire an Expert\".",
+                "country": "United States",
+                "user": "Health & Light Institute"
+            },
+            {
+                "rating": 2,
+                "date": "Edited May 15, 2023",
+                "comment": "One can only expect that customizations will carry on with the update. This is not what the app does on the FREE version. If you wish to maintain your theme looking sharp, you will have to invest MONTHLY on this app to maintain the latest version of your theme.",
+                "country": "Mexico",
+                "user": "PLOMERIA UNIVERSAL"
+            },
+            {
+                "rating": 5,
+                "date": "May 7, 2023",
+                "comment": "Great customer service!\nByanca went above and beyond to help me and fix whatever I wasn't happy with.",
+                "country": "Canada",
+                "user": "Carolina’s Brownies"
+            },
+            {
+                "rating": 5,
+                "date": "May 5, 2023",
+                "comment": "Very usefull app to upgrade the theme with one mouse click!! It helds us to deliver faster time to market and keep to code base up to date.",
+                "country": "Switzerland",
+                "user": "mojo.swiss"
+            },
+            {
+                "rating": 1,
+                "date": "Edited April 19, 2023",
+                "comment": "If you are looking for somewhere to throw away money, this is it! This app did absolutely NOTHING to preserve my settings or customizations. I bought it because upgrading normally wasn't keeping even some basic settings. Figured this would help. Nope. This was a simple upgraded. Already on shopify 2.0, so not an issue with that.",
+                "country": "United States",
+                "user": "Glowy Zoey"
+            },
+            {
+                "rating": 5,
+                "date": "April 7, 2023",
+                "comment": "We have used this app since its release.\nBe aware of that many 3rd Party Themes does not offer Automatic Theme Updates. You need then to download the newest theme, and do all the customization once again (this can take much time / have a high cost).",
+                "country": "Norway",
+                "user": "ebiketech"
+            },
+            {
+                "rating": 5,
+                "date": "April 5, 2023",
+                "comment": "I have used this app on several occasions and so far it has worked flawlessly. I highly recommend anyone to have this app so they can keep their themes up to day and working properly.",
+                "country": "United States",
+                "user": "Gift Basket Village"
+            },
+            {
+                "rating": 4,
+                "date": "Edited April 5, 2023",
+                "comment": "Me han solucionado el fallo de la aplicación bastante rápido, ahora si que funciona, si bien es cierto que la actualización no es perfecta del todo, requiere algunos ajuste, pero en general mucho mejor. Saludos",
+                "country": "Spain",
+                "user": "PracticOffice"
+            },
+            {
+                "rating": 5,
+                "date": "March 24, 2023",
+                "comment": "This app expedites and eases the process of keeping our theme up-to-date. Customer service is great as well!",
+                "country": "Canada",
+                "user": "Boho Beautiful Shop"
+            },
+            {
+                "rating": 1,
+                "date": "May 24, 2023",
+                "comment": "Worst customer service. I bought their theme 4 years ago for $425. At first you could upgrade for FREE. Now you have to pay $9 to upgrade. Knowing that from July 28, 2022 to November 2022 there were no less than 6 updates of the theme because each time the new updates had bugs.",
+                "country": "France",
+                "user": "Viking Shop"
+            },
+            {
+                "rating": 1,
+                "date": "May 18, 2023",
+                "comment": "Beware of this company! Do not waste your money. Their current customer service is awful, often referring you to have to \"hire an Expert\" to get your theme even working to a basic point. I purchased mine years back and back then they excelled at helping me to customize it. Not recently. My current theme started to give a bunch of Google Search Console errors and they told me that the only solution was to upgrade to the latest version to get those solved. Ok. After reading these reviews and their notes about this updater app I decided instead to save the money and update it manually. But, even updating the theme manually, their new updated theme is half baked and it needs a lot of coding to get it right to where my previous theme even was. After lots of back and forth (prepare to wait 24-48 hrs for them to get back to you for each response) they would not help even to fix simple issues often referring me to \"hire an Expert\".",
+                "country": "United States",
+                "user": "Health & Light Institute"
+            },
+            {
+                "rating": 2,
+                "date": "Edited May 15, 2023",
+                "comment": "One can only expect that customizations will carry on with the update. This is not what the app does on the FREE version. If you wish to maintain your theme looking sharp, you will have to invest MONTHLY on this app to maintain the latest version of your theme.",
+                "country": "Mexico",
+                "user": "PLOMERIA UNIVERSAL"
+            },
+            {
+                "rating": 5,
+                "date": "May 7, 2023",
+                "comment": "Great customer service!\nByanca went above and beyond to help me and fix whatever I wasn't happy with.",
+                "country": "Canada",
+                "user": "Carolina’s Brownies"
+            },
+            {
+                "rating": 5,
+                "date": "May 5, 2023",
+                "comment": "Very usefull app to upgrade the theme with one mouse click!! It helds us to deliver faster time to market and keep to code base up to date.",
+                "country": "Switzerland",
+                "user": "mojo.swiss"
+            },
+            {
+                "rating": 1,
+                "date": "Edited April 19, 2023",
+                "comment": "If you are looking for somewhere to throw away money, this is it! This app did absolutely NOTHING to preserve my settings or customizations. I bought it because upgrading normally wasn't keeping even some basic settings. Figured this would help. Nope. This was a simple upgraded. Already on shopify 2.0, so not an issue with that.",
+                "country": "United States",
+                "user": "Glowy Zoey"
+            },
+            {
+                "rating": 5,
+                "date": "April 7, 2023",
+                "comment": "We have used this app since its release.\nBe aware of that many 3rd Party Themes does not offer Automatic Theme Updates. You need then to download the newest theme, and do all the customization once again (this can take much time / have a high cost).",
+                "country": "Norway",
+                "user": "ebiketech"
+            },
+            {
+                "rating": 5,
+                "date": "April 5, 2023",
+                "comment": "I have used this app on several occasions and so far it has worked flawlessly. I highly recommend anyone to have this app so they can keep their themes up to day and working properly.",
+                "country": "United States",
+                "user": "Gift Basket Village"
+            },
+            {
+                "rating": 4,
+                "date": "Edited April 5, 2023",
+                "comment": "Me han solucionado el fallo de la aplicación bastante rápido, ahora si que funciona, si bien es cierto que la actualización no es perfecta del todo, requiere algunos ajuste, pero en general mucho mejor. Saludos",
+                "country": "Spain",
+                "user": "PracticOffice"
+            },
+            {
+                "rating": 5,
+                "date": "March 24, 2023",
+                "comment": "This app expedites and eases the process of keeping our theme up-to-date. Customer service is great as well!",
+                "country": "Canada",
+                "user": "Boho Beautiful Shop"
+            },
+            {
+                "rating": 1,
+                "date": "May 24, 2023",
+                "comment": "Worst customer service. I bought their theme 4 years ago for $425. At first you could upgrade for FREE. Now you have to pay $9 to upgrade. Knowing that from July 28, 2022 to November 2022 there were no less than 6 updates of the theme because each time the new updates had bugs.",
+                "country": "France",
+                "user": "Viking Shop"
+            },
+            {
+                "rating": 1,
+                "date": "May 18, 2023",
+                "comment": "Beware of this company! Do not waste your money. Their current customer service is awful, often referring you to have to \"hire an Expert\" to get your theme even working to a basic point. I purchased mine years back and back then they excelled at helping me to customize it. Not recently. My current theme started to give a bunch of Google Search Console errors and they told me that the only solution was to upgrade to the latest version to get those solved. Ok. After reading these reviews and their notes about this updater app I decided instead to save the money and update it manually. But, even updating the theme manually, their new updated theme is half baked and it needs a lot of coding to get it right to where my previous theme even was. After lots of back and forth (prepare to wait 24-48 hrs for them to get back to you for each response) they would not help even to fix simple issues often referring me to \"hire an Expert\".",
+                "country": "United States",
+                "user": "Health & Light Institute"
+            },
+            {
+                "rating": 2,
+                "date": "Edited May 15, 2023",
+                "comment": "One can only expect that customizations will carry on with the update. This is not what the app does on the FREE version. If you wish to maintain your theme looking sharp, you will have to invest MONTHLY on this app to maintain the latest version of your theme.",
+                "country": "Mexico",
+                "user": "PLOMERIA UNIVERSAL"
+            },
+            {
+                "rating": 5,
+                "date": "May 7, 2023",
+                "comment": "Great customer service!\nByanca went above and beyond to help me and fix whatever I wasn't happy with.",
+                "country": "Canada",
+                "user": "Carolina’s Brownies"
+            },
+            {
+                "rating": 5,
+                "date": "May 5, 2023",
+                "comment": "Very usefull app to upgrade the theme with one mouse click!! It helds us to deliver faster time to market and keep to code base up to date.",
+                "country": "Switzerland",
+                "user": "mojo.swiss"
+            },
+            {
+                "rating": 1,
+                "date": "Edited April 19, 2023",
+                "comment": "If you are looking for somewhere to throw away money, this is it! This app did absolutely NOTHING to preserve my settings or customizations. I bought it because upgrading normally wasn't keeping even some basic settings. Figured this would help. Nope. This was a simple upgraded. Already on shopify 2.0, so not an issue with that.",
+                "country": "United States",
+                "user": "Glowy Zoey"
+            },
+            {
+                "rating": 5,
+                "date": "April 7, 2023",
+                "comment": "We have used this app since its release.\nBe aware of that many 3rd Party Themes does not offer Automatic Theme Updates. You need then to download the newest theme, and do all the customization once again (this can take much time / have a high cost).",
+                "country": "Norway",
+                "user": "ebiketech"
+            },
+            {
+                "rating": 5,
+                "date": "April 5, 2023",
+                "comment": "I have used this app on several occasions and so far it has worked flawlessly. I highly recommend anyone to have this app so they can keep their themes up to day and working properly.",
+                "country": "United States",
+                "user": "Gift Basket Village"
+            },
+            {
+                "rating": 4,
+                "date": "Edited April 5, 2023",
+                "comment": "Me han solucionado el fallo de la aplicación bastante rápido, ahora si que funciona, si bien es cierto que la actualización no es perfecta del todo, requiere algunos ajuste, pero en general mucho mejor. Saludos",
+                "country": "Spain",
+                "user": "PracticOffice"
+            },
+            {
+                "rating": 5,
+                "date": "March 24, 2023",
+                "comment": "This app expedites and eases the process of keeping our theme up-to-date. Customer service is great as well!",
+                "country": "Canada",
+                "user": "Boho Beautiful Shop"
+            },
+            {
+                "rating": 1,
+                "date": "May 24, 2023",
+                "comment": "Worst customer service. I bought their theme 4 years ago for $425. At first you could upgrade for FREE. Now you have to pay $9 to upgrade. Knowing that from July 28, 2022 to November 2022 there were no less than 6 updates of the theme because each time the new updates had bugs.",
+                "country": "France",
+                "user": "Viking Shop"
+            },
+            {
+                "rating": 1,
+                "date": "May 18, 2023",
+                "comment": "Beware of this company! Do not waste your money. Their current customer service is awful, often referring you to have to \"hire an Expert\" to get your theme even working to a basic point. I purchased mine years back and back then they excelled at helping me to customize it. Not recently. My current theme started to give a bunch of Google Search Console errors and they told me that the only solution was to upgrade to the latest version to get those solved. Ok. After reading these reviews and their notes about this updater app I decided instead to save the money and update it manually. But, even updating the theme manually, their new updated theme is half baked and it needs a lot of coding to get it right to where my previous theme even was. After lots of back and forth (prepare to wait 24-48 hrs for them to get back to you for each response) they would not help even to fix simple issues often referring me to \"hire an Expert\".",
+                "country": "United States",
+                "user": "Health & Light Institute"
+            },
+            {
+                "rating": 2,
+                "date": "Edited May 15, 2023",
+                "comment": "One can only expect that customizations will carry on with the update. This is not what the app does on the FREE version. If you wish to maintain your theme looking sharp, you will have to invest MONTHLY on this app to maintain the latest version of your theme.",
+                "country": "Mexico",
+                "user": "PLOMERIA UNIVERSAL"
+            },
+            {
+                "rating": 5,
+                "date": "May 7, 2023",
+                "comment": "Great customer service!\nByanca went above and beyond to help me and fix whatever I wasn't happy with.",
+                "country": "Canada",
+                "user": "Carolina’s Brownies"
+            },
+            {
+                "rating": 5,
+                "date": "May 5, 2023",
+                "comment": "Very usefull app to upgrade the theme with one mouse click!! It helds us to deliver faster time to market and keep to code base up to date.",
+                "country": "Switzerland",
+                "user": "mojo.swiss"
+            },
+            {
+                "rating": 1,
+                "date": "Edited April 19, 2023",
+                "comment": "If you are looking for somewhere to throw away money, this is it! This app did absolutely NOTHING to preserve my settings or customizations. I bought it because upgrading normally wasn't keeping even some basic settings. Figured this would help. Nope. This was a simple upgraded. Already on shopify 2.0, so not an issue with that.",
+                "country": "United States",
+                "user": "Glowy Zoey"
+            },
+            {
+                "rating": 5,
+                "date": "April 7, 2023",
+                "comment": "We have used this app since its release.\nBe aware of that many 3rd Party Themes does not offer Automatic Theme Updates. You need then to download the newest theme, and do all the customization once again (this can take much time / have a high cost).",
+                "country": "Norway",
+                "user": "ebiketech"
+            },
+            {
+                "rating": 5,
+                "date": "April 5, 2023",
+                "comment": "I have used this app on several occasions and so far it has worked flawlessly. I highly recommend anyone to have this app so they can keep their themes up to day and working properly.",
+                "country": "United States",
+                "user": "Gift Basket Village"
+            },
+            {
+                "rating": 4,
+                "date": "Edited April 5, 2023",
+                "comment": "Me han solucionado el fallo de la aplicación bastante rápido, ahora si que funciona, si bien es cierto que la actualización no es perfecta del todo, requiere algunos ajuste, pero en general mucho mejor. Saludos",
+                "country": "Spain",
+                "user": "PracticOffice"
+            },
+            {
+                "rating": 5,
+                "date": "March 24, 2023",
+                "comment": "This app expedites and eases the process of keeping our theme up-to-date. Customer service is great as well!",
+                "country": "Canada",
+                "user": "Boho Beautiful Shop"
+            },
+            {
+                "rating": 1,
+                "date": "May 24, 2023",
+                "comment": "Worst customer service. I bought their theme 4 years ago for $425. At first you could upgrade for FREE. Now you have to pay $9 to upgrade. Knowing that from July 28, 2022 to November 2022 there were no less than 6 updates of the theme because each time the new updates had bugs.",
+                "country": "France",
+                "user": "Viking Shop"
+            },
+            {
+                "rating": 1,
+                "date": "May 18, 2023",
+                "comment": "Beware of this company! Do not waste your money. Their current customer service is awful, often referring you to have to \"hire an Expert\" to get your theme even working to a basic point. I purchased mine years back and back then they excelled at helping me to customize it. Not recently. My current theme started to give a bunch of Google Search Console errors and they told me that the only solution was to upgrade to the latest version to get those solved. Ok. After reading these reviews and their notes about this updater app I decided instead to save the money and update it manually. But, even updating the theme manually, their new updated theme is half baked and it needs a lot of coding to get it right to where my previous theme even was. After lots of back and forth (prepare to wait 24-48 hrs for them to get back to you for each response) they would not help even to fix simple issues often referring me to \"hire an Expert\".",
+                "country": "United States",
+                "user": "Health & Light Institute"
+            },
+            {
+                "rating": 2,
+                "date": "Edited May 15, 2023",
+                "comment": "One can only expect that customizations will carry on with the update. This is not what the app does on the FREE version. If you wish to maintain your theme looking sharp, you will have to invest MONTHLY on this app to maintain the latest version of your theme.",
+                "country": "Mexico",
+                "user": "PLOMERIA UNIVERSAL"
+            },
+            {
+                "rating": 5,
+                "date": "May 7, 2023",
+                "comment": "Great customer service!\nByanca went above and beyond to help me and fix whatever I wasn't happy with.",
+                "country": "Canada",
+                "user": "Carolina’s Brownies"
+            },
+            {
+                "rating": 5,
+                "date": "May 5, 2023",
+                "comment": "Very usefull app to upgrade the theme with one mouse click!! It helds us to deliver faster time to market and keep to code base up to date.",
+                "country": "Switzerland",
+                "user": "mojo.swiss"
+            },
+            {
+                "rating": 1,
+                "date": "Edited April 19, 2023",
+                "comment": "If you are looking for somewhere to throw away money, this is it! This app did absolutely NOTHING to preserve my settings or customizations. I bought it because upgrading normally wasn't keeping even some basic settings. Figured this would help. Nope. This was a simple upgraded. Already on shopify 2.0, so not an issue with that.",
+                "country": "United States",
+                "user": "Glowy Zoey"
+            },
+            {
+                "rating": 5,
+                "date": "April 7, 2023",
+                "comment": "We have used this app since its release.\nBe aware of that many 3rd Party Themes does not offer Automatic Theme Updates. You need then to download the newest theme, and do all the customization once again (this can take much time / have a high cost).",
+                "country": "Norway",
+                "user": "ebiketech"
+            },
+            {
+                "rating": 5,
+                "date": "April 5, 2023",
+                "comment": "I have used this app on several occasions and so far it has worked flawlessly. I highly recommend anyone to have this app so they can keep their themes up to day and working properly.",
+                "country": "United States",
+                "user": "Gift Basket Village"
+            },
+            {
+                "rating": 4,
+                "date": "Edited April 5, 2023",
+                "comment": "Me han solucionado el fallo de la aplicación bastante rápido, ahora si que funciona, si bien es cierto que la actualización no es perfecta del todo, requiere algunos ajuste, pero en general mucho mejor. Saludos",
+                "country": "Spain",
+                "user": "PracticOffice"
+            },
+            {
+                "rating": 5,
+                "date": "March 24, 2023",
+                "comment": "This app expedites and eases the process of keeping our theme up-to-date. Customer service is great as well!",
+                "country": "Canada",
+                "user": "Boho Beautiful Shop"
+            },
+            {
+                "rating": 1,
+                "date": "May 24, 2023",
+                "comment": "Worst customer service. I bought their theme 4 years ago for $425. At first you could upgrade for FREE. Now you have to pay $9 to upgrade. Knowing that from July 28, 2022 to November 2022 there were no less than 6 updates of the theme because each time the new updates had bugs.",
+                "country": "France",
+                "user": "Viking Shop"
+            },
+            {
+                "rating": 1,
+                "date": "May 18, 2023",
+                "comment": "Beware of this company! Do not waste your money. Their current customer service is awful, often referring you to have to \"hire an Expert\" to get your theme even working to a basic point. I purchased mine years back and back then they excelled at helping me to customize it. Not recently. My current theme started to give a bunch of Google Search Console errors and they told me that the only solution was to upgrade to the latest version to get those solved. Ok. After reading these reviews and their notes about this updater app I decided instead to save the money and update it manually. But, even updating the theme manually, their new updated theme is half baked and it needs a lot of coding to get it right to where my previous theme even was. After lots of back and forth (prepare to wait 24-48 hrs for them to get back to you for each response) they would not help even to fix simple issues often referring me to \"hire an Expert\".",
+                "country": "United States",
+                "user": "Health & Light Institute"
+            },
+            {
+                "rating": 2,
+                "date": "Edited May 15, 2023",
+                "comment": "One can only expect that customizations will carry on with the update. This is not what the app does on the FREE version. If you wish to maintain your theme looking sharp, you will have to invest MONTHLY on this app to maintain the latest version of your theme.",
+                "country": "Mexico",
+                "user": "PLOMERIA UNIVERSAL"
+            },
+            {
+                "rating": 5,
+                "date": "May 7, 2023",
+                "comment": "Great customer service!\nByanca went above and beyond to help me and fix whatever I wasn't happy with.",
+                "country": "Canada",
+                "user": "Carolina’s Brownies"
+            },
+            {
+                "rating": 5,
+                "date": "May 5, 2023",
+                "comment": "Very usefull app to upgrade the theme with one mouse click!! It helds us to deliver faster time to market and keep to code base up to date.",
+                "country": "Switzerland",
+                "user": "mojo.swiss"
+            },
+            {
+                "rating": 1,
+                "date": "Edited April 19, 2023",
+                "comment": "If you are looking for somewhere to throw away money, this is it! This app did absolutely NOTHING to preserve my settings or customizations. I bought it because upgrading normally wasn't keeping even some basic settings. Figured this would help. Nope. This was a simple upgraded. Already on shopify 2.0, so not an issue with that.",
+                "country": "United States",
+                "user": "Glowy Zoey"
+            },
+            {
+                "rating": 5,
+                "date": "April 7, 2023",
+                "comment": "We have used this app since its release.\nBe aware of that many 3rd Party Themes does not offer Automatic Theme Updates. You need then to download the newest theme, and do all the customization once again (this can take much time / have a high cost).",
+                "country": "Norway",
+                "user": "ebiketech"
+            },
+            {
+                "rating": 5,
+                "date": "April 5, 2023",
+                "comment": "I have used this app on several occasions and so far it has worked flawlessly. I highly recommend anyone to have this app so they can keep their themes up to day and working properly.",
+                "country": "United States",
+                "user": "Gift Basket Village"
+            },
+            {
+                "rating": 4,
+                "date": "Edited April 5, 2023",
+                "comment": "Me han solucionado el fallo de la aplicación bastante rápido, ahora si que funciona, si bien es cierto que la actualización no es perfecta del todo, requiere algunos ajuste, pero en general mucho mejor. Saludos",
+                "country": "Spain",
+                "user": "PracticOffice"
+            },
+            {
+                "rating": 5,
+                "date": "March 24, 2023",
+                "comment": "This app expedites and eases the process of keeping our theme up-to-date. Customer service is great as well!",
+                "country": "Canada",
+                "user": "Boho Beautiful Shop"
+            },
+            {
+                "rating": 1,
+                "date": "May 24, 2023",
+                "comment": "Worst customer service. I bought their theme 4 years ago for $425. At first you could upgrade for FREE. Now you have to pay $9 to upgrade. Knowing that from July 28, 2022 to November 2022 there were no less than 6 updates of the theme because each time the new updates had bugs.",
+                "country": "France",
+                "user": "Viking Shop"
+            },
+            {
+                "rating": 1,
+                "date": "May 18, 2023",
+                "comment": "Beware of this company! Do not waste your money. Their current customer service is awful, often referring you to have to \"hire an Expert\" to get your theme even working to a basic point. I purchased mine years back and back then they excelled at helping me to customize it. Not recently. My current theme started to give a bunch of Google Search Console errors and they told me that the only solution was to upgrade to the latest version to get those solved. Ok. After reading these reviews and their notes about this updater app I decided instead to save the money and update it manually. But, even updating the theme manually, their new updated theme is half baked and it needs a lot of coding to get it right to where my previous theme even was. After lots of back and forth (prepare to wait 24-48 hrs for them to get back to you for each response) they would not help even to fix simple issues often referring me to \"hire an Expert\".",
+                "country": "United States",
+                "user": "Health & Light Institute"
+            },
+            {
+                "rating": 2,
+                "date": "Edited May 15, 2023",
+                "comment": "One can only expect that customizations will carry on with the update. This is not what the app does on the FREE version. If you wish to maintain your theme looking sharp, you will have to invest MONTHLY on this app to maintain the latest version of your theme.",
+                "country": "Mexico",
+                "user": "PLOMERIA UNIVERSAL"
+            },
+            {
+                "rating": 5,
+                "date": "May 7, 2023",
+                "comment": "Great customer service!\nByanca went above and beyond to help me and fix whatever I wasn't happy with.",
+                "country": "Canada",
+                "user": "Carolina’s Brownies"
+            },
+            {
+                "rating": 5,
+                "date": "May 5, 2023",
+                "comment": "Very usefull app to upgrade the theme with one mouse click!! It helds us to deliver faster time to market and keep to code base up to date.",
+                "country": "Switzerland",
+                "user": "mojo.swiss"
+            },
+            {
+                "rating": 1,
+                "date": "Edited April 19, 2023",
+                "comment": "If you are looking for somewhere to throw away money, this is it! This app did absolutely NOTHING to preserve my settings or customizations. I bought it because upgrading normally wasn't keeping even some basic settings. Figured this would help. Nope. This was a simple upgraded. Already on shopify 2.0, so not an issue with that.",
+                "country": "United States",
+                "user": "Glowy Zoey"
+            },
+            {
+                "rating": 5,
+                "date": "April 7, 2023",
+                "comment": "We have used this app since its release.\nBe aware of that many 3rd Party Themes does not offer Automatic Theme Updates. You need then to download the newest theme, and do all the customization once again (this can take much time / have a high cost).",
+                "country": "Norway",
+                "user": "ebiketech"
+            },
+            {
+                "rating": 5,
+                "date": "April 5, 2023",
+                "comment": "I have used this app on several occasions and so far it has worked flawlessly. I highly recommend anyone to have this app so they can keep their themes up to day and working properly.",
+                "country": "United States",
+                "user": "Gift Basket Village"
+            },
+            {
+                "rating": 4,
+                "date": "Edited April 5, 2023",
+                "comment": "Me han solucionado el fallo de la aplicación bastante rápido, ahora si que funciona, si bien es cierto que la actualización no es perfecta del todo, requiere algunos ajuste, pero en general mucho mejor. Saludos",
+                "country": "Spain",
+                "user": "PracticOffice"
+            },
+            {
+                "rating": 5,
+                "date": "March 24, 2023",
+                "comment": "This app expedites and eases the process of keeping our theme up-to-date. Customer service is great as well!",
+                "country": "Canada",
+                "user": "Boho Beautiful Shop"
+            },
+            {
+                "rating": 1,
+                "date": "May 24, 2023",
+                "comment": "Worst customer service. I bought their theme 4 years ago for $425. At first you could upgrade for FREE. Now you have to pay $9 to upgrade. Knowing that from July 28, 2022 to November 2022 there were no less than 6 updates of the theme because each time the new updates had bugs.",
+                "country": "France",
+                "user": "Viking Shop"
+            },
+            {
+                "rating": 1,
+                "date": "May 18, 2023",
+                "comment": "Beware of this company! Do not waste your money. Their current customer service is awful, often referring you to have to \"hire an Expert\" to get your theme even working to a basic point. I purchased mine years back and back then they excelled at helping me to customize it. Not recently. My current theme started to give a bunch of Google Search Console errors and they told me that the only solution was to upgrade to the latest version to get those solved. Ok. After reading these reviews and their notes about this updater app I decided instead to save the money and update it manually. But, even updating the theme manually, their new updated theme is half baked and it needs a lot of coding to get it right to where my previous theme even was. After lots of back and forth (prepare to wait 24-48 hrs for them to get back to you for each response) they would not help even to fix simple issues often referring me to \"hire an Expert\".",
+                "country": "United States",
+                "user": "Health & Light Institute"
+            },
+            {
+                "rating": 2,
+                "date": "Edited May 15, 2023",
+                "comment": "One can only expect that customizations will carry on with the update. This is not what the app does on the FREE version. If you wish to maintain your theme looking sharp, you will have to invest MONTHLY on this app to maintain the latest version of your theme.",
+                "country": "Mexico",
+                "user": "PLOMERIA UNIVERSAL"
+            },
+            {
+                "rating": 5,
+                "date": "May 7, 2023",
+                "comment": "Great customer service!\nByanca went above and beyond to help me and fix whatever I wasn't happy with.",
+                "country": "Canada",
+                "user": "Carolina’s Brownies"
+            },
+            {
+                "rating": 5,
+                "date": "May 5, 2023",
+                "comment": "Very usefull app to upgrade the theme with one mouse click!! It helds us to deliver faster time to market and keep to code base up to date.",
+                "country": "Switzerland",
+                "user": "mojo.swiss"
+            },
+            {
+                "rating": 1,
+                "date": "Edited April 19, 2023",
+                "comment": "If you are looking for somewhere to throw away money, this is it! This app did absolutely NOTHING to preserve my settings or customizations. I bought it because upgrading normally wasn't keeping even some basic settings. Figured this would help. Nope. This was a simple upgraded. Already on shopify 2.0, so not an issue with that.",
+                "country": "United States",
+                "user": "Glowy Zoey"
+            },
+            {
+                "rating": 5,
+                "date": "April 7, 2023",
+                "comment": "We have used this app since its release.\nBe aware of that many 3rd Party Themes does not offer Automatic Theme Updates. You need then to download the newest theme, and do all the customization once again (this can take much time / have a high cost).",
+                "country": "Norway",
+                "user": "ebiketech"
+            },
+            {
+                "rating": 5,
+                "date": "April 5, 2023",
+                "comment": "I have used this app on several occasions and so far it has worked flawlessly. I highly recommend anyone to have this app so they can keep their themes up to day and working properly.",
+                "country": "United States",
+                "user": "Gift Basket Village"
+            },
+            {
+                "rating": 4,
+                "date": "Edited April 5, 2023",
+                "comment": "Me han solucionado el fallo de la aplicación bastante rápido, ahora si que funciona, si bien es cierto que la actualización no es perfecta del todo, requiere algunos ajuste, pero en general mucho mejor. Saludos",
+                "country": "Spain",
+                "user": "PracticOffice"
+            },
+            {
+                "rating": 5,
+                "date": "March 24, 2023",
+                "comment": "This app expedites and eases the process of keeping our theme up-to-date. Customer service is great as well!",
+                "country": "Canada",
+                "user": "Boho Beautiful Shop"
+            },
+            {
+                "rating": 1,
+                "date": "May 24, 2023",
+                "comment": "Worst customer service. I bought their theme 4 years ago for $425. At first you could upgrade for FREE. Now you have to pay $9 to upgrade. Knowing that from July 28, 2022 to November 2022 there were no less than 6 updates of the theme because each time the new updates had bugs.",
+                "country": "France",
+                "user": "Viking Shop"
+            },
+            {
+                "rating": 1,
+                "date": "May 18, 2023",
+                "comment": "Beware of this company! Do not waste your money. Their current customer service is awful, often referring you to have to \"hire an Expert\" to get your theme even working to a basic point. I purchased mine years back and back then they excelled at helping me to customize it. Not recently. My current theme started to give a bunch of Google Search Console errors and they told me that the only solution was to upgrade to the latest version to get those solved. Ok. After reading these reviews and their notes about this updater app I decided instead to save the money and update it manually. But, even updating the theme manually, their new updated theme is half baked and it needs a lot of coding to get it right to where my previous theme even was. After lots of back and forth (prepare to wait 24-48 hrs for them to get back to you for each response) they would not help even to fix simple issues often referring me to \"hire an Expert\".",
+                "country": "United States",
+                "user": "Health & Light Institute"
+            },
+            {
+                "rating": 2,
+                "date": "Edited May 15, 2023",
+                "comment": "One can only expect that customizations will carry on with the update. This is not what the app does on the FREE version. If you wish to maintain your theme looking sharp, you will have to invest MONTHLY on this app to maintain the latest version of your theme.",
+                "country": "Mexico",
+                "user": "PLOMERIA UNIVERSAL"
+            },
+            {
+                "rating": 5,
+                "date": "May 7, 2023",
+                "comment": "Great customer service!\nByanca went above and beyond to help me and fix whatever I wasn't happy with.",
+                "country": "Canada",
+                "user": "Carolina’s Brownies"
+            },
+            {
+                "rating": 5,
+                "date": "May 5, 2023",
+                "comment": "Very usefull app to upgrade the theme with one mouse click!! It helds us to deliver faster time to market and keep to code base up to date.",
+                "country": "Switzerland",
+                "user": "mojo.swiss"
+            },
+            {
+                "rating": 1,
+                "date": "Edited April 19, 2023",
+                "comment": "If you are looking for somewhere to throw away money, this is it! This app did absolutely NOTHING to preserve my settings or customizations. I bought it because upgrading normally wasn't keeping even some basic settings. Figured this would help. Nope. This was a simple upgraded. Already on shopify 2.0, so not an issue with that.",
+                "country": "United States",
+                "user": "Glowy Zoey"
+            },
+            {
+                "rating": 5,
+                "date": "April 7, 2023",
+                "comment": "We have used this app since its release.\nBe aware of that many 3rd Party Themes does not offer Automatic Theme Updates. You need then to download the newest theme, and do all the customization once again (this can take much time / have a high cost).",
+                "country": "Norway",
+                "user": "ebiketech"
+            },
+            {
+                "rating": 5,
+                "date": "April 5, 2023",
+                "comment": "I have used this app on several occasions and so far it has worked flawlessly. I highly recommend anyone to have this app so they can keep their themes up to day and working properly.",
+                "country": "United States",
+                "user": "Gift Basket Village"
+            },
+            {
+                "rating": 4,
+                "date": "Edited April 5, 2023",
+                "comment": "Me han solucionado el fallo de la aplicación bastante rápido, ahora si que funciona, si bien es cierto que la actualización no es perfecta del todo, requiere algunos ajuste, pero en general mucho mejor. Saludos",
+                "country": "Spain",
+                "user": "PracticOffice"
+            },
+            {
+                "rating": 5,
+                "date": "March 24, 2023",
+                "comment": "This app expedites and eases the process of keeping our theme up-to-date. Customer service is great as well!",
+                "country": "Canada",
+                "user": "Boho Beautiful Shop"
+            },
+            {
+                "rating": 1,
+                "date": "May 24, 2023",
+                "comment": "Worst customer service. I bought their theme 4 years ago for $425. At first you could upgrade for FREE. Now you have to pay $9 to upgrade. Knowing that from July 28, 2022 to November 2022 there were no less than 6 updates of the theme because each time the new updates had bugs.",
+                "country": "France",
+                "user": "Viking Shop"
+            },
+            {
+                "rating": 1,
+                "date": "May 18, 2023",
+                "comment": "Beware of this company! Do not waste your money. Their current customer service is awful, often referring you to have to \"hire an Expert\" to get your theme even working to a basic point. I purchased mine years back and back then they excelled at helping me to customize it. Not recently. My current theme started to give a bunch of Google Search Console errors and they told me that the only solution was to upgrade to the latest version to get those solved. Ok. After reading these reviews and their notes about this updater app I decided instead to save the money and update it manually. But, even updating the theme manually, their new updated theme is half baked and it needs a lot of coding to get it right to where my previous theme even was. After lots of back and forth (prepare to wait 24-48 hrs for them to get back to you for each response) they would not help even to fix simple issues often referring me to \"hire an Expert\".",
+                "country": "United States",
+                "user": "Health & Light Institute"
+            },
+            {
+                "rating": 2,
+                "date": "Edited May 15, 2023",
+                "comment": "One can only expect that customizations will carry on with the update. This is not what the app does on the FREE version. If you wish to maintain your theme looking sharp, you will have to invest MONTHLY on this app to maintain the latest version of your theme.",
+                "country": "Mexico",
+                "user": "PLOMERIA UNIVERSAL"
+            },
+            {
+                "rating": 5,
+                "date": "May 7, 2023",
+                "comment": "Great customer service!\nByanca went above and beyond to help me and fix whatever I wasn't happy with.",
+                "country": "Canada",
+                "user": "Carolina’s Brownies"
+            },
+            {
+                "rating": 5,
+                "date": "May 5, 2023",
+                "comment": "Very usefull app to upgrade the theme with one mouse click!! It helds us to deliver faster time to market and keep to code base up to date.",
+                "country": "Switzerland",
+                "user": "mojo.swiss"
+            },
+            {
+                "rating": 1,
+                "date": "Edited April 19, 2023",
+                "comment": "If you are looking for somewhere to throw away money, this is it! This app did absolutely NOTHING to preserve my settings or customizations. I bought it because upgrading normally wasn't keeping even some basic settings. Figured this would help. Nope. This was a simple upgraded. Already on shopify 2.0, so not an issue with that.",
+                "country": "United States",
+                "user": "Glowy Zoey"
+            },
+            {
+                "rating": 5,
+                "date": "April 7, 2023",
+                "comment": "We have used this app since its release.\nBe aware of that many 3rd Party Themes does not offer Automatic Theme Updates. You need then to download the newest theme, and do all the customization once again (this can take much time / have a high cost).",
+                "country": "Norway",
+                "user": "ebiketech"
+            },
+            {
+                "rating": 5,
+                "date": "April 5, 2023",
+                "comment": "I have used this app on several occasions and so far it has worked flawlessly. I highly recommend anyone to have this app so they can keep their themes up to day and working properly.",
+                "country": "United States",
+                "user": "Gift Basket Village"
+            },
+            {
+                "rating": 4,
+                "date": "Edited April 5, 2023",
+                "comment": "Me han solucionado el fallo de la aplicación bastante rápido, ahora si que funciona, si bien es cierto que la actualización no es perfecta del todo, requiere algunos ajuste, pero en general mucho mejor. Saludos",
+                "country": "Spain",
+                "user": "PracticOffice"
+            },
+            {
+                "rating": 5,
+                "date": "March 24, 2023",
+                "comment": "This app expedites and eases the process of keeping our theme up-to-date. Customer service is great as well!",
+                "country": "Canada",
+                "user": "Boho Beautiful Shop"
+            },
+            {
+                "rating": 1,
+                "date": "May 24, 2023",
+                "comment": "Worst customer service. I bought their theme 4 years ago for $425. At first you could upgrade for FREE. Now you have to pay $9 to upgrade. Knowing that from July 28, 2022 to November 2022 there were no less than 6 updates of the theme because each time the new updates had bugs.",
+                "country": "France",
+                "user": "Viking Shop"
+            },
+            {
+                "rating": 1,
+                "date": "May 18, 2023",
+                "comment": "Beware of this company! Do not waste your money. Their current customer service is awful, often referring you to have to \"hire an Expert\" to get your theme even working to a basic point. I purchased mine years back and back then they excelled at helping me to customize it. Not recently. My current theme started to give a bunch of Google Search Console errors and they told me that the only solution was to upgrade to the latest version to get those solved. Ok. After reading these reviews and their notes about this updater app I decided instead to save the money and update it manually. But, even updating the theme manually, their new updated theme is half baked and it needs a lot of coding to get it right to where my previous theme even was. After lots of back and forth (prepare to wait 24-48 hrs for them to get back to you for each response) they would not help even to fix simple issues often referring me to \"hire an Expert\".",
+                "country": "United States",
+                "user": "Health & Light Institute"
+            },
+            {
+                "rating": 2,
+                "date": "Edited May 15, 2023",
+                "comment": "One can only expect that customizations will carry on with the update. This is not what the app does on the FREE version. If you wish to maintain your theme looking sharp, you will have to invest MONTHLY on this app to maintain the latest version of your theme.",
+                "country": "Mexico",
+                "user": "PLOMERIA UNIVERSAL"
+            },
+            {
+                "rating": 5,
+                "date": "May 7, 2023",
+                "comment": "Great customer service!\nByanca went above and beyond to help me and fix whatever I wasn't happy with.",
+                "country": "Canada",
+                "user": "Carolina’s Brownies"
+            },
+            {
+                "rating": 5,
+                "date": "May 5, 2023",
+                "comment": "Very usefull app to upgrade the theme with one mouse click!! It helds us to deliver faster time to market and keep to code base up to date.",
+                "country": "Switzerland",
+                "user": "mojo.swiss"
+            },
+            {
+                "rating": 1,
+                "date": "Edited April 19, 2023",
+                "comment": "If you are looking for somewhere to throw away money, this is it! This app did absolutely NOTHING to preserve my settings or customizations. I bought it because upgrading normally wasn't keeping even some basic settings. Figured this would help. Nope. This was a simple upgraded. Already on shopify 2.0, so not an issue with that.",
+                "country": "United States",
+                "user": "Glowy Zoey"
+            },
+            {
+                "rating": 5,
+                "date": "April 7, 2023",
+                "comment": "We have used this app since its release.\nBe aware of that many 3rd Party Themes does not offer Automatic Theme Updates. You need then to download the newest theme, and do all the customization once again (this can take much time / have a high cost).",
+                "country": "Norway",
+                "user": "ebiketech"
+            },
+            {
+                "rating": 5,
+                "date": "April 5, 2023",
+                "comment": "I have used this app on several occasions and so far it has worked flawlessly. I highly recommend anyone to have this app so they can keep their themes up to day and working properly.",
+                "country": "United States",
+                "user": "Gift Basket Village"
+            },
+            {
+                "rating": 4,
+                "date": "Edited April 5, 2023",
+                "comment": "Me han solucionado el fallo de la aplicación bastante rápido, ahora si que funciona, si bien es cierto que la actualización no es perfecta del todo, requiere algunos ajuste, pero en general mucho mejor. Saludos",
+                "country": "Spain",
+                "user": "PracticOffice"
+            },
+            {
+                "rating": 5,
+                "date": "March 24, 2023",
+                "comment": "This app expedites and eases the process of keeping our theme up-to-date. Customer service is great as well!",
+                "country": "Canada",
+                "user": "Boho Beautiful Shop"
+            },
+            {
+                "rating": 1,
+                "date": "May 24, 2023",
+                "comment": "Worst customer service. I bought their theme 4 years ago for $425. At first you could upgrade for FREE. Now you have to pay $9 to upgrade. Knowing that from July 28, 2022 to November 2022 there were no less than 6 updates of the theme because each time the new updates had bugs.",
+                "country": "France",
+                "user": "Viking Shop"
+            },
+            {
+                "rating": 1,
+                "date": "May 18, 2023",
+                "comment": "Beware of this company! Do not waste your money. Their current customer service is awful, often referring you to have to \"hire an Expert\" to get your theme even working to a basic point. I purchased mine years back and back then they excelled at helping me to customize it. Not recently. My current theme started to give a bunch of Google Search Console errors and they told me that the only solution was to upgrade to the latest version to get those solved. Ok. After reading these reviews and their notes about this updater app I decided instead to save the money and update it manually. But, even updating the theme manually, their new updated theme is half baked and it needs a lot of coding to get it right to where my previous theme even was. After lots of back and forth (prepare to wait 24-48 hrs for them to get back to you for each response) they would not help even to fix simple issues often referring me to \"hire an Expert\".",
+                "country": "United States",
+                "user": "Health & Light Institute"
+            },
+            {
+                "rating": 2,
+                "date": "Edited May 15, 2023",
+                "comment": "One can only expect that customizations will carry on with the update. This is not what the app does on the FREE version. If you wish to maintain your theme looking sharp, you will have to invest MONTHLY on this app to maintain the latest version of your theme.",
+                "country": "Mexico",
+                "user": "PLOMERIA UNIVERSAL"
+            },
+            {
+                "rating": 5,
+                "date": "May 7, 2023",
+                "comment": "Great customer service!\nByanca went above and beyond to help me and fix whatever I wasn't happy with.",
+                "country": "Canada",
+                "user": "Carolina’s Brownies"
+            },
+            {
+                "rating": 5,
+                "date": "May 5, 2023",
+                "comment": "Very usefull app to upgrade the theme with one mouse click!! It helds us to deliver faster time to market and keep to code base up to date.",
+                "country": "Switzerland",
+                "user": "mojo.swiss"
+            },
+            {
+                "rating": 1,
+                "date": "Edited April 19, 2023",
+                "comment": "If you are looking for somewhere to throw away money, this is it! This app did absolutely NOTHING to preserve my settings or customizations. I bought it because upgrading normally wasn't keeping even some basic settings. Figured this would help. Nope. This was a simple upgraded. Already on shopify 2.0, so not an issue with that.",
+                "country": "United States",
+                "user": "Glowy Zoey"
+            },
+            {
+                "rating": 5,
+                "date": "April 7, 2023",
+                "comment": "We have used this app since its release.\nBe aware of that many 3rd Party Themes does not offer Automatic Theme Updates. You need then to download the newest theme, and do all the customization once again (this can take much time / have a high cost).",
+                "country": "Norway",
+                "user": "ebiketech"
+            },
+            {
+                "rating": 5,
+                "date": "April 5, 2023",
+                "comment": "I have used this app on several occasions and so far it has worked flawlessly. I highly recommend anyone to have this app so they can keep their themes up to day and working properly.",
+                "country": "United States",
+                "user": "Gift Basket Village"
+            },
+            {
+                "rating": 4,
+                "date": "Edited April 5, 2023",
+                "comment": "Me han solucionado el fallo de la aplicación bastante rápido, ahora si que funciona, si bien es cierto que la actualización no es perfecta del todo, requiere algunos ajuste, pero en general mucho mejor. Saludos",
+                "country": "Spain",
+                "user": "PracticOffice"
+            },
+            {
+                "rating": 5,
+                "date": "March 24, 2023",
+                "comment": "This app expedites and eases the process of keeping our theme up-to-date. Customer service is great as well!",
+                "country": "Canada",
+                "user": "Boho Beautiful Shop"
+            },
+            {
+                "rating": 1,
+                "date": "May 24, 2023",
+                "comment": "Worst customer service. I bought their theme 4 years ago for $425. At first you could upgrade for FREE. Now you have to pay $9 to upgrade. Knowing that from July 28, 2022 to November 2022 there were no less than 6 updates of the theme because each time the new updates had bugs.",
+                "country": "France",
+                "user": "Viking Shop"
+            },
+            {
+                "rating": 1,
+                "date": "May 18, 2023",
+                "comment": "Beware of this company! Do not waste your money. Their current customer service is awful, often referring you to have to \"hire an Expert\" to get your theme even working to a basic point. I purchased mine years back and back then they excelled at helping me to customize it. Not recently. My current theme started to give a bunch of Google Search Console errors and they told me that the only solution was to upgrade to the latest version to get those solved. Ok. After reading these reviews and their notes about this updater app I decided instead to save the money and update it manually. But, even updating the theme manually, their new updated theme is half baked and it needs a lot of coding to get it right to where my previous theme even was. After lots of back and forth (prepare to wait 24-48 hrs for them to get back to you for each response) they would not help even to fix simple issues often referring me to \"hire an Expert\".",
+                "country": "United States",
+                "user": "Health & Light Institute"
+            },
+            {
+                "rating": 2,
+                "date": "Edited May 15, 2023",
+                "comment": "One can only expect that customizations will carry on with the update. This is not what the app does on the FREE version. If you wish to maintain your theme looking sharp, you will have to invest MONTHLY on this app to maintain the latest version of your theme.",
+                "country": "Mexico",
+                "user": "PLOMERIA UNIVERSAL"
+            },
+            {
+                "rating": 5,
+                "date": "May 7, 2023",
+                "comment": "Great customer service!\nByanca went above and beyond to help me and fix whatever I wasn't happy with.",
+                "country": "Canada",
+                "user": "Carolina’s Brownies"
+            },
+            {
+                "rating": 5,
+                "date": "May 5, 2023",
+                "comment": "Very usefull app to upgrade the theme with one mouse click!! It helds us to deliver faster time to market and keep to code base up to date.",
+                "country": "Switzerland",
+                "user": "mojo.swiss"
+            },
+            {
+                "rating": 1,
+                "date": "Edited April 19, 2023",
+                "comment": "If you are looking for somewhere to throw away money, this is it! This app did absolutely NOTHING to preserve my settings or customizations. I bought it because upgrading normally wasn't keeping even some basic settings. Figured this would help. Nope. This was a simple upgraded. Already on shopify 2.0, so not an issue with that.",
+                "country": "United States",
+                "user": "Glowy Zoey"
+            },
+            {
+                "rating": 5,
+                "date": "April 7, 2023",
+                "comment": "We have used this app since its release.\nBe aware of that many 3rd Party Themes does not offer Automatic Theme Updates. You need then to download the newest theme, and do all the customization once again (this can take much time / have a high cost).",
+                "country": "Norway",
+                "user": "ebiketech"
+            },
+            {
+                "rating": 5,
+                "date": "April 5, 2023",
+                "comment": "I have used this app on several occasions and so far it has worked flawlessly. I highly recommend anyone to have this app so they can keep their themes up to day and working properly.",
+                "country": "United States",
+                "user": "Gift Basket Village"
+            },
+            {
+                "rating": 4,
+                "date": "Edited April 5, 2023",
+                "comment": "Me han solucionado el fallo de la aplicación bastante rápido, ahora si que funciona, si bien es cierto que la actualización no es perfecta del todo, requiere algunos ajuste, pero en general mucho mejor. Saludos",
+                "country": "Spain",
+                "user": "PracticOffice"
+            },
+            {
+                "rating": 5,
+                "date": "March 24, 2023",
+                "comment": "This app expedites and eases the process of keeping our theme up-to-date. Customer service is great as well!",
+                "country": "Canada",
+                "user": "Boho Beautiful Shop"
+            },
+            {
+                "rating": 1,
+                "date": "May 24, 2023",
+                "comment": "Worst customer service. I bought their theme 4 years ago for $425. At first you could upgrade for FREE. Now you have to pay $9 to upgrade. Knowing that from July 28, 2022 to November 2022 there were no less than 6 updates of the theme because each time the new updates had bugs.",
+                "country": "France",
+                "user": "Viking Shop"
+            },
+            {
+                "rating": 1,
+                "date": "May 18, 2023",
+                "comment": "Beware of this company! Do not waste your money. Their current customer service is awful, often referring you to have to \"hire an Expert\" to get your theme even working to a basic point. I purchased mine years back and back then they excelled at helping me to customize it. Not recently. My current theme started to give a bunch of Google Search Console errors and they told me that the only solution was to upgrade to the latest version to get those solved. Ok. After reading these reviews and their notes about this updater app I decided instead to save the money and update it manually. But, even updating the theme manually, their new updated theme is half baked and it needs a lot of coding to get it right to where my previous theme even was. After lots of back and forth (prepare to wait 24-48 hrs for them to get back to you for each response) they would not help even to fix simple issues often referring me to \"hire an Expert\".",
+                "country": "United States",
+                "user": "Health & Light Institute"
+            },
+            {
+                "rating": 2,
+                "date": "Edited May 15, 2023",
+                "comment": "One can only expect that customizations will carry on with the update. This is not what the app does on the FREE version. If you wish to maintain your theme looking sharp, you will have to invest MONTHLY on this app to maintain the latest version of your theme.",
+                "country": "Mexico",
+                "user": "PLOMERIA UNIVERSAL"
+            },
+            {
+                "rating": 5,
+                "date": "May 7, 2023",
+                "comment": "Great customer service!\nByanca went above and beyond to help me and fix whatever I wasn't happy with.",
+                "country": "Canada",
+                "user": "Carolina’s Brownies"
+            },
+            {
+                "rating": 5,
+                "date": "May 5, 2023",
+                "comment": "Very usefull app to upgrade the theme with one mouse click!! It helds us to deliver faster time to market and keep to code base up to date.",
+                "country": "Switzerland",
+                "user": "mojo.swiss"
+            },
+            {
+                "rating": 1,
+                "date": "Edited April 19, 2023",
+                "comment": "If you are looking for somewhere to throw away money, this is it! This app did absolutely NOTHING to preserve my settings or customizations. I bought it because upgrading normally wasn't keeping even some basic settings. Figured this would help. Nope. This was a simple upgraded. Already on shopify 2.0, so not an issue with that.",
+                "country": "United States",
+                "user": "Glowy Zoey"
+            },
+            {
+                "rating": 5,
+                "date": "April 7, 2023",
+                "comment": "We have used this app since its release.\nBe aware of that many 3rd Party Themes does not offer Automatic Theme Updates. You need then to download the newest theme, and do all the customization once again (this can take much time / have a high cost).",
+                "country": "Norway",
+                "user": "ebiketech"
+            },
+            {
+                "rating": 5,
+                "date": "April 5, 2023",
+                "comment": "I have used this app on several occasions and so far it has worked flawlessly. I highly recommend anyone to have this app so they can keep their themes up to day and working properly.",
+                "country": "United States",
+                "user": "Gift Basket Village"
+            },
+            {
+                "rating": 4,
+                "date": "Edited April 5, 2023",
+                "comment": "Me han solucionado el fallo de la aplicación bastante rápido, ahora si que funciona, si bien es cierto que la actualización no es perfecta del todo, requiere algunos ajuste, pero en general mucho mejor. Saludos",
+                "country": "Spain",
+                "user": "PracticOffice"
+            },
+            {
+                "rating": 5,
+                "date": "March 24, 2023",
+                "comment": "This app expedites and eases the process of keeping our theme up-to-date. Customer service is great as well!",
+                "country": "Canada",
+                "user": "Boho Beautiful Shop"
+            },
+            {
+                "rating": 1,
+                "date": "May 24, 2023",
+                "comment": "Worst customer service. I bought their theme 4 years ago for $425. At first you could upgrade for FREE. Now you have to pay $9 to upgrade. Knowing that from July 28, 2022 to November 2022 there were no less than 6 updates of the theme because each time the new updates had bugs.",
+                "country": "France",
+                "user": "Viking Shop"
+            },
+            {
+                "rating": 1,
+                "date": "May 18, 2023",
+                "comment": "Beware of this company! Do not waste your money. Their current customer service is awful, often referring you to have to \"hire an Expert\" to get your theme even working to a basic point. I purchased mine years back and back then they excelled at helping me to customize it. Not recently. My current theme started to give a bunch of Google Search Console errors and they told me that the only solution was to upgrade to the latest version to get those solved. Ok. After reading these reviews and their notes about this updater app I decided instead to save the money and update it manually. But, even updating the theme manually, their new updated theme is half baked and it needs a lot of coding to get it right to where my previous theme even was. After lots of back and forth (prepare to wait 24-48 hrs for them to get back to you for each response) they would not help even to fix simple issues often referring me to \"hire an Expert\".",
+                "country": "United States",
+                "user": "Health & Light Institute"
+            },
+            {
+                "rating": 2,
+                "date": "Edited May 15, 2023",
+                "comment": "One can only expect that customizations will carry on with the update. This is not what the app does on the FREE version. If you wish to maintain your theme looking sharp, you will have to invest MONTHLY on this app to maintain the latest version of your theme.",
+                "country": "Mexico",
+                "user": "PLOMERIA UNIVERSAL"
+            },
+            {
+                "rating": 5,
+                "date": "May 7, 2023",
+                "comment": "Great customer service!\nByanca went above and beyond to help me and fix whatever I wasn't happy with.",
+                "country": "Canada",
+                "user": "Carolina’s Brownies"
+            },
+            {
+                "rating": 5,
+                "date": "May 5, 2023",
+                "comment": "Very usefull app to upgrade the theme with one mouse click!! It helds us to deliver faster time to market and keep to code base up to date.",
+                "country": "Switzerland",
+                "user": "mojo.swiss"
+            },
+            {
+                "rating": 1,
+                "date": "Edited April 19, 2023",
+                "comment": "If you are looking for somewhere to throw away money, this is it! This app did absolutely NOTHING to preserve my settings or customizations. I bought it because upgrading normally wasn't keeping even some basic settings. Figured this would help. Nope. This was a simple upgraded. Already on shopify 2.0, so not an issue with that.",
+                "country": "United States",
+                "user": "Glowy Zoey"
+            },
+            {
+                "rating": 5,
+                "date": "April 7, 2023",
+                "comment": "We have used this app since its release.\nBe aware of that many 3rd Party Themes does not offer Automatic Theme Updates. You need then to download the newest theme, and do all the customization once again (this can take much time / have a high cost).",
+                "country": "Norway",
+                "user": "ebiketech"
+            },
+            {
+                "rating": 5,
+                "date": "April 5, 2023",
+                "comment": "I have used this app on several occasions and so far it has worked flawlessly. I highly recommend anyone to have this app so they can keep their themes up to day and working properly.",
+                "country": "United States",
+                "user": "Gift Basket Village"
+            },
+            {
+                "rating": 4,
+                "date": "Edited April 5, 2023",
+                "comment": "Me han solucionado el fallo de la aplicación bastante rápido, ahora si que funciona, si bien es cierto que la actualización no es perfecta del todo, requiere algunos ajuste, pero en general mucho mejor. Saludos",
+                "country": "Spain",
+                "user": "PracticOffice"
+            },
+            {
+                "rating": 5,
+                "date": "March 24, 2023",
+                "comment": "This app expedites and eases the process of keeping our theme up-to-date. Customer service is great as well!",
+                "country": "Canada",
+                "user": "Boho Beautiful Shop"
+            },
+            {
+                "rating": 1,
+                "date": "May 24, 2023",
+                "comment": "Worst customer service. I bought their theme 4 years ago for $425. At first you could upgrade for FREE. Now you have to pay $9 to upgrade. Knowing that from July 28, 2022 to November 2022 there were no less than 6 updates of the theme because each time the new updates had bugs.",
+                "country": "France",
+                "user": "Viking Shop"
+            },
+            {
+                "rating": 1,
+                "date": "May 18, 2023",
+                "comment": "Beware of this company! Do not waste your money. Their current customer service is awful, often referring you to have to \"hire an Expert\" to get your theme even working to a basic point. I purchased mine years back and back then they excelled at helping me to customize it. Not recently. My current theme started to give a bunch of Google Search Console errors and they told me that the only solution was to upgrade to the latest version to get those solved. Ok. After reading these reviews and their notes about this updater app I decided instead to save the money and update it manually. But, even updating the theme manually, their new updated theme is half baked and it needs a lot of coding to get it right to where my previous theme even was. After lots of back and forth (prepare to wait 24-48 hrs for them to get back to you for each response) they would not help even to fix simple issues often referring me to \"hire an Expert\".",
+                "country": "United States",
+                "user": "Health & Light Institute"
+            },
+            {
+                "rating": 2,
+                "date": "Edited May 15, 2023",
+                "comment": "One can only expect that customizations will carry on with the update. This is not what the app does on the FREE version. If you wish to maintain your theme looking sharp, you will have to invest MONTHLY on this app to maintain the latest version of your theme.",
+                "country": "Mexico",
+                "user": "PLOMERIA UNIVERSAL"
+            },
+            {
+                "rating": 5,
+                "date": "May 7, 2023",
+                "comment": "Great customer service!\nByanca went above and beyond to help me and fix whatever I wasn't happy with.",
+                "country": "Canada",
+                "user": "Carolina’s Brownies"
+            },
+            {
+                "rating": 5,
+                "date": "May 5, 2023",
+                "comment": "Very usefull app to upgrade the theme with one mouse click!! It helds us to deliver faster time to market and keep to code base up to date.",
+                "country": "Switzerland",
+                "user": "mojo.swiss"
+            },
+            {
+                "rating": 1,
+                "date": "Edited April 19, 2023",
+                "comment": "If you are looking for somewhere to throw away money, this is it! This app did absolutely NOTHING to preserve my settings or customizations. I bought it because upgrading normally wasn't keeping even some basic settings. Figured this would help. Nope. This was a simple upgraded. Already on shopify 2.0, so not an issue with that.",
+                "country": "United States",
+                "user": "Glowy Zoey"
+            },
+            {
+                "rating": 5,
+                "date": "April 7, 2023",
+                "comment": "We have used this app since its release.\nBe aware of that many 3rd Party Themes does not offer Automatic Theme Updates. You need then to download the newest theme, and do all the customization once again (this can take much time / have a high cost).",
+                "country": "Norway",
+                "user": "ebiketech"
+            },
+            {
+                "rating": 5,
+                "date": "April 5, 2023",
+                "comment": "I have used this app on several occasions and so far it has worked flawlessly. I highly recommend anyone to have this app so they can keep their themes up to day and working properly.",
+                "country": "United States",
+                "user": "Gift Basket Village"
+            },
+            {
+                "rating": 4,
+                "date": "Edited April 5, 2023",
+                "comment": "Me han solucionado el fallo de la aplicación bastante rápido, ahora si que funciona, si bien es cierto que la actualización no es perfecta del todo, requiere algunos ajuste, pero en general mucho mejor. Saludos",
+                "country": "Spain",
+                "user": "PracticOffice"
+            },
+            {
+                "rating": 5,
+                "date": "March 24, 2023",
+                "comment": "This app expedites and eases the process of keeping our theme up-to-date. Customer service is great as well!",
+                "country": "Canada",
+                "user": "Boho Beautiful Shop"
+            },
+            {
+                "rating": 1,
+                "date": "May 24, 2023",
+                "comment": "Worst customer service. I bought their theme 4 years ago for $425. At first you could upgrade for FREE. Now you have to pay $9 to upgrade. Knowing that from July 28, 2022 to November 2022 there were no less than 6 updates of the theme because each time the new updates had bugs.",
+                "country": "France",
+                "user": "Viking Shop"
+            },
+            {
+                "rating": 1,
+                "date": "May 18, 2023",
+                "comment": "Beware of this company! Do not waste your money. Their current customer service is awful, often referring you to have to \"hire an Expert\" to get your theme even working to a basic point. I purchased mine years back and back then they excelled at helping me to customize it. Not recently. My current theme started to give a bunch of Google Search Console errors and they told me that the only solution was to upgrade to the latest version to get those solved. Ok. After reading these reviews and their notes about this updater app I decided instead to save the money and update it manually. But, even updating the theme manually, their new updated theme is half baked and it needs a lot of coding to get it right to where my previous theme even was. After lots of back and forth (prepare to wait 24-48 hrs for them to get back to you for each response) they would not help even to fix simple issues often referring me to \"hire an Expert\".",
+                "country": "United States",
+                "user": "Health & Light Institute"
+            },
+            {
+                "rating": 2,
+                "date": "Edited May 15, 2023",
+                "comment": "One can only expect that customizations will carry on with the update. This is not what the app does on the FREE version. If you wish to maintain your theme looking sharp, you will have to invest MONTHLY on this app to maintain the latest version of your theme.",
+                "country": "Mexico",
+                "user": "PLOMERIA UNIVERSAL"
+            },
+            {
+                "rating": 5,
+                "date": "May 7, 2023",
+                "comment": "Great customer service!\nByanca went above and beyond to help me and fix whatever I wasn't happy with.",
+                "country": "Canada",
+                "user": "Carolina’s Brownies"
+            },
+            {
+                "rating": 5,
+                "date": "May 5, 2023",
+                "comment": "Very usefull app to upgrade the theme with one mouse click!! It helds us to deliver faster time to market and keep to code base up to date.",
+                "country": "Switzerland",
+                "user": "mojo.swiss"
+            },
+            {
+                "rating": 1,
+                "date": "Edited April 19, 2023",
+                "comment": "If you are looking for somewhere to throw away money, this is it! This app did absolutely NOTHING to preserve my settings or customizations. I bought it because upgrading normally wasn't keeping even some basic settings. Figured this would help. Nope. This was a simple upgraded. Already on shopify 2.0, so not an issue with that.",
+                "country": "United States",
+                "user": "Glowy Zoey"
+            },
+            {
+                "rating": 5,
+                "date": "April 7, 2023",
+                "comment": "We have used this app since its release.\nBe aware of that many 3rd Party Themes does not offer Automatic Theme Updates. You need then to download the newest theme, and do all the customization once again (this can take much time / have a high cost).",
+                "country": "Norway",
+                "user": "ebiketech"
+            },
+            {
+                "rating": 5,
+                "date": "April 5, 2023",
+                "comment": "I have used this app on several occasions and so far it has worked flawlessly. I highly recommend anyone to have this app so they can keep their themes up to day and working properly.",
+                "country": "United States",
+                "user": "Gift Basket Village"
+            },
+            {
+                "rating": 4,
+                "date": "Edited April 5, 2023",
+                "comment": "Me han solucionado el fallo de la aplicación bastante rápido, ahora si que funciona, si bien es cierto que la actualización no es perfecta del todo, requiere algunos ajuste, pero en general mucho mejor. Saludos",
+                "country": "Spain",
+                "user": "PracticOffice"
+            },
+            {
+                "rating": 5,
+                "date": "March 24, 2023",
+                "comment": "This app expedites and eases the process of keeping our theme up-to-date. Customer service is great as well!",
+                "country": "Canada",
+                "user": "Boho Beautiful Shop"
+            },
+            {
+                "rating": 1,
+                "date": "May 24, 2023",
+                "comment": "Worst customer service. I bought their theme 4 years ago for $425. At first you could upgrade for FREE. Now you have to pay $9 to upgrade. Knowing that from July 28, 2022 to November 2022 there were no less than 6 updates of the theme because each time the new updates had bugs.",
+                "country": "France",
+                "user": "Viking Shop"
+            },
+            {
+                "rating": 1,
+                "date": "May 18, 2023",
+                "comment": "Beware of this company! Do not waste your money. Their current customer service is awful, often referring you to have to \"hire an Expert\" to get your theme even working to a basic point. I purchased mine years back and back then they excelled at helping me to customize it. Not recently. My current theme started to give a bunch of Google Search Console errors and they told me that the only solution was to upgrade to the latest version to get those solved. Ok. After reading these reviews and their notes about this updater app I decided instead to save the money and update it manually. But, even updating the theme manually, their new updated theme is half baked and it needs a lot of coding to get it right to where my previous theme even was. After lots of back and forth (prepare to wait 24-48 hrs for them to get back to you for each response) they would not help even to fix simple issues often referring me to \"hire an Expert\".",
+                "country": "United States",
+                "user": "Health & Light Institute"
+            },
+            {
+                "rating": 2,
+                "date": "Edited May 15, 2023",
+                "comment": "One can only expect that customizations will carry on with the update. This is not what the app does on the FREE version. If you wish to maintain your theme looking sharp, you will have to invest MONTHLY on this app to maintain the latest version of your theme.",
+                "country": "Mexico",
+                "user": "PLOMERIA UNIVERSAL"
+            },
+            {
+                "rating": 5,
+                "date": "May 7, 2023",
+                "comment": "Great customer service!\nByanca went above and beyond to help me and fix whatever I wasn't happy with.",
+                "country": "Canada",
+                "user": "Carolina’s Brownies"
+            },
+            {
+                "rating": 5,
+                "date": "May 5, 2023",
+                "comment": "Very usefull app to upgrade the theme with one mouse click!! It helds us to deliver faster time to market and keep to code base up to date.",
+                "country": "Switzerland",
+                "user": "mojo.swiss"
+            },
+            {
+                "rating": 1,
+                "date": "Edited April 19, 2023",
+                "comment": "If you are looking for somewhere to throw away money, this is it! This app did absolutely NOTHING to preserve my settings or customizations. I bought it because upgrading normally wasn't keeping even some basic settings. Figured this would help. Nope. This was a simple upgraded. Already on shopify 2.0, so not an issue with that.",
+                "country": "United States",
+                "user": "Glowy Zoey"
+            },
+            {
+                "rating": 5,
+                "date": "April 7, 2023",
+                "comment": "We have used this app since its release.\nBe aware of that many 3rd Party Themes does not offer Automatic Theme Updates. You need then to download the newest theme, and do all the customization once again (this can take much time / have a high cost).",
+                "country": "Norway",
+                "user": "ebiketech"
+            },
+            {
+                "rating": 5,
+                "date": "April 5, 2023",
+                "comment": "I have used this app on several occasions and so far it has worked flawlessly. I highly recommend anyone to have this app so they can keep their themes up to day and working properly.",
+                "country": "United States",
+                "user": "Gift Basket Village"
+            },
+            {
+                "rating": 4,
+                "date": "Edited April 5, 2023",
+                "comment": "Me han solucionado el fallo de la aplicación bastante rápido, ahora si que funciona, si bien es cierto que la actualización no es perfecta del todo, requiere algunos ajuste, pero en general mucho mejor. Saludos",
+                "country": "Spain",
+                "user": "PracticOffice"
+            },
+            {
+                "rating": 5,
+                "date": "March 24, 2023",
+                "comment": "This app expedites and eases the process of keeping our theme up-to-date. Customer service is great as well!",
+                "country": "Canada",
+                "user": "Boho Beautiful Shop"
+            },
+            {
+                "rating": 1,
+                "date": "May 24, 2023",
+                "comment": "Worst customer service. I bought their theme 4 years ago for $425. At first you could upgrade for FREE. Now you have to pay $9 to upgrade. Knowing that from July 28, 2022 to November 2022 there were no less than 6 updates of the theme because each time the new updates had bugs.",
+                "country": "France",
+                "user": "Viking Shop"
+            },
+            {
+                "rating": 1,
+                "date": "May 18, 2023",
+                "comment": "Beware of this company! Do not waste your money. Their current customer service is awful, often referring you to have to \"hire an Expert\" to get your theme even working to a basic point. I purchased mine years back and back then they excelled at helping me to customize it. Not recently. My current theme started to give a bunch of Google Search Console errors and they told me that the only solution was to upgrade to the latest version to get those solved. Ok. After reading these reviews and their notes about this updater app I decided instead to save the money and update it manually. But, even updating the theme manually, their new updated theme is half baked and it needs a lot of coding to get it right to where my previous theme even was. After lots of back and forth (prepare to wait 24-48 hrs for them to get back to you for each response) they would not help even to fix simple issues often referring me to \"hire an Expert\".",
+                "country": "United States",
+                "user": "Health & Light Institute"
+            },
+            {
+                "rating": 2,
+                "date": "Edited May 15, 2023",
+                "comment": "One can only expect that customizations will carry on with the update. This is not what the app does on the FREE version. If you wish to maintain your theme looking sharp, you will have to invest MONTHLY on this app to maintain the latest version of your theme.",
+                "country": "Mexico",
+                "user": "PLOMERIA UNIVERSAL"
+            },
+            {
+                "rating": 5,
+                "date": "May 7, 2023",
+                "comment": "Great customer service!\nByanca went above and beyond to help me and fix whatever I wasn't happy with.",
+                "country": "Canada",
+                "user": "Carolina’s Brownies"
+            },
+            {
+                "rating": 5,
+                "date": "May 5, 2023",
+                "comment": "Very usefull app to upgrade the theme with one mouse click!! It helds us to deliver faster time to market and keep to code base up to date.",
+                "country": "Switzerland",
+                "user": "mojo.swiss"
+            },
+            {
+                "rating": 1,
+                "date": "Edited April 19, 2023",
+                "comment": "If you are looking for somewhere to throw away money, this is it! This app did absolutely NOTHING to preserve my settings or customizations. I bought it because upgrading normally wasn't keeping even some basic settings. Figured this would help. Nope. This was a simple upgraded. Already on shopify 2.0, so not an issue with that.",
+                "country": "United States",
+                "user": "Glowy Zoey"
+            },
+            {
+                "rating": 5,
+                "date": "April 7, 2023",
+                "comment": "We have used this app since its release.\nBe aware of that many 3rd Party Themes does not offer Automatic Theme Updates. You need then to download the newest theme, and do all the customization once again (this can take much time / have a high cost).",
+                "country": "Norway",
+                "user": "ebiketech"
+            },
+            {
+                "rating": 5,
+                "date": "April 5, 2023",
+                "comment": "I have used this app on several occasions and so far it has worked flawlessly. I highly recommend anyone to have this app so they can keep their themes up to day and working properly.",
+                "country": "United States",
+                "user": "Gift Basket Village"
+            },
+            {
+                "rating": 4,
+                "date": "Edited April 5, 2023",
+                "comment": "Me han solucionado el fallo de la aplicación bastante rápido, ahora si que funciona, si bien es cierto que la actualización no es perfecta del todo, requiere algunos ajuste, pero en general mucho mejor. Saludos",
+                "country": "Spain",
+                "user": "PracticOffice"
+            },
+            {
+                "rating": 5,
+                "date": "March 24, 2023",
+                "comment": "This app expedites and eases the process of keeping our theme up-to-date. Customer service is great as well!",
+                "country": "Canada",
+                "user": "Boho Beautiful Shop"
+            },
+            {
+                "rating": 1,
+                "date": "May 24, 2023",
+                "comment": "Worst customer service. I bought their theme 4 years ago for $425. At first you could upgrade for FREE. Now you have to pay $9 to upgrade. Knowing that from July 28, 2022 to November 2022 there were no less than 6 updates of the theme because each time the new updates had bugs.",
+                "country": "France",
+                "user": "Viking Shop"
+            },
+            {
+                "rating": 1,
+                "date": "May 18, 2023",
+                "comment": "Beware of this company! Do not waste your money. Their current customer service is awful, often referring you to have to \"hire an Expert\" to get your theme even working to a basic point. I purchased mine years back and back then they excelled at helping me to customize it. Not recently. My current theme started to give a bunch of Google Search Console errors and they told me that the only solution was to upgrade to the latest version to get those solved. Ok. After reading these reviews and their notes about this updater app I decided instead to save the money and update it manually. But, even updating the theme manually, their new updated theme is half baked and it needs a lot of coding to get it right to where my previous theme even was. After lots of back and forth (prepare to wait 24-48 hrs for them to get back to you for each response) they would not help even to fix simple issues often referring me to \"hire an Expert\".",
+                "country": "United States",
+                "user": "Health & Light Institute"
+            },
+            {
+                "rating": 2,
+                "date": "Edited May 15, 2023",
+                "comment": "One can only expect that customizations will carry on with the update. This is not what the app does on the FREE version. If you wish to maintain your theme looking sharp, you will have to invest MONTHLY on this app to maintain the latest version of your theme.",
+                "country": "Mexico",
+                "user": "PLOMERIA UNIVERSAL"
+            },
+            {
+                "rating": 5,
+                "date": "May 7, 2023",
+                "comment": "Great customer service!\nByanca went above and beyond to help me and fix whatever I wasn't happy with.",
+                "country": "Canada",
+                "user": "Carolina’s Brownies"
+            },
+            {
+                "rating": 5,
+                "date": "May 5, 2023",
+                "comment": "Very usefull app to upgrade the theme with one mouse click!! It helds us to deliver faster time to market and keep to code base up to date.",
+                "country": "Switzerland",
+                "user": "mojo.swiss"
+            },
+            {
+                "rating": 1,
+                "date": "Edited April 19, 2023",
+                "comment": "If you are looking for somewhere to throw away money, this is it! This app did absolutely NOTHING to preserve my settings or customizations. I bought it because upgrading normally wasn't keeping even some basic settings. Figured this would help. Nope. This was a simple upgraded. Already on shopify 2.0, so not an issue with that.",
+                "country": "United States",
+                "user": "Glowy Zoey"
+            },
+            {
+                "rating": 5,
+                "date": "April 7, 2023",
+                "comment": "We have used this app since its release.\nBe aware of that many 3rd Party Themes does not offer Automatic Theme Updates. You need then to download the newest theme, and do all the customization once again (this can take much time / have a high cost).",
+                "country": "Norway",
+                "user": "ebiketech"
+            },
+            {
+                "rating": 5,
+                "date": "April 5, 2023",
+                "comment": "I have used this app on several occasions and so far it has worked flawlessly. I highly recommend anyone to have this app so they can keep their themes up to day and working properly.",
+                "country": "United States",
+                "user": "Gift Basket Village"
+            },
+            {
+                "rating": 4,
+                "date": "Edited April 5, 2023",
+                "comment": "Me han solucionado el fallo de la aplicación bastante rápido, ahora si que funciona, si bien es cierto que la actualización no es perfecta del todo, requiere algunos ajuste, pero en general mucho mejor. Saludos",
+                "country": "Spain",
+                "user": "PracticOffice"
+            },
+            {
+                "rating": 5,
+                "date": "March 24, 2023",
+                "comment": "This app expedites and eases the process of keeping our theme up-to-date. Customer service is great as well!",
+                "country": "Canada",
+                "user": "Boho Beautiful Shop"
+            },
+            {
+                "rating": 1,
+                "date": "May 24, 2023",
+                "comment": "Worst customer service. I bought their theme 4 years ago for $425. At first you could upgrade for FREE. Now you have to pay $9 to upgrade. Knowing that from July 28, 2022 to November 2022 there were no less than 6 updates of the theme because each time the new updates had bugs.",
+                "country": "France",
+                "user": "Viking Shop"
+            },
+            {
+                "rating": 1,
+                "date": "May 18, 2023",
+                "comment": "Beware of this company! Do not waste your money. Their current customer service is awful, often referring you to have to \"hire an Expert\" to get your theme even working to a basic point. I purchased mine years back and back then they excelled at helping me to customize it. Not recently. My current theme started to give a bunch of Google Search Console errors and they told me that the only solution was to upgrade to the latest version to get those solved. Ok. After reading these reviews and their notes about this updater app I decided instead to save the money and update it manually. But, even updating the theme manually, their new updated theme is half baked and it needs a lot of coding to get it right to where my previous theme even was. After lots of back and forth (prepare to wait 24-48 hrs for them to get back to you for each response) they would not help even to fix simple issues often referring me to \"hire an Expert\".",
+                "country": "United States",
+                "user": "Health & Light Institute"
+            },
+            {
+                "rating": 2,
+                "date": "Edited May 15, 2023",
+                "comment": "One can only expect that customizations will carry on with the update. This is not what the app does on the FREE version. If you wish to maintain your theme looking sharp, you will have to invest MONTHLY on this app to maintain the latest version of your theme.",
+                "country": "Mexico",
+                "user": "PLOMERIA UNIVERSAL"
+            },
+            {
+                "rating": 5,
+                "date": "May 7, 2023",
+                "comment": "Great customer service!\nByanca went above and beyond to help me and fix whatever I wasn't happy with.",
+                "country": "Canada",
+                "user": "Carolina’s Brownies"
+            },
+            {
+                "rating": 5,
+                "date": "May 5, 2023",
+                "comment": "Very usefull app to upgrade the theme with one mouse click!! It helds us to deliver faster time to market and keep to code base up to date.",
+                "country": "Switzerland",
+                "user": "mojo.swiss"
+            },
+            {
+                "rating": 1,
+                "date": "Edited April 19, 2023",
+                "comment": "If you are looking for somewhere to throw away money, this is it! This app did absolutely NOTHING to preserve my settings or customizations. I bought it because upgrading normally wasn't keeping even some basic settings. Figured this would help. Nope. This was a simple upgraded. Already on shopify 2.0, so not an issue with that.",
+                "country": "United States",
+                "user": "Glowy Zoey"
+            },
+            {
+                "rating": 5,
+                "date": "April 7, 2023",
+                "comment": "We have used this app since its release.\nBe aware of that many 3rd Party Themes does not offer Automatic Theme Updates. You need then to download the newest theme, and do all the customization once again (this can take much time / have a high cost).",
+                "country": "Norway",
+                "user": "ebiketech"
+            },
+            {
+                "rating": 5,
+                "date": "April 5, 2023",
+                "comment": "I have used this app on several occasions and so far it has worked flawlessly. I highly recommend anyone to have this app so they can keep their themes up to day and working properly.",
+                "country": "United States",
+                "user": "Gift Basket Village"
+            },
+            {
+                "rating": 4,
+                "date": "Edited April 5, 2023",
+                "comment": "Me han solucionado el fallo de la aplicación bastante rápido, ahora si que funciona, si bien es cierto que la actualización no es perfecta del todo, requiere algunos ajuste, pero en general mucho mejor. Saludos",
+                "country": "Spain",
+                "user": "PracticOffice"
+            },
+            {
+                "rating": 5,
+                "date": "March 24, 2023",
+                "comment": "This app expedites and eases the process of keeping our theme up-to-date. Customer service is great as well!",
+                "country": "Canada",
+                "user": "Boho Beautiful Shop"
+            },
+            {
+                "rating": 1,
+                "date": "May 24, 2023",
+                "comment": "Worst customer service. I bought their theme 4 years ago for $425. At first you could upgrade for FREE. Now you have to pay $9 to upgrade. Knowing that from July 28, 2022 to November 2022 there were no less than 6 updates of the theme because each time the new updates had bugs.",
+                "country": "France",
+                "user": "Viking Shop"
+            },
+            {
+                "rating": 1,
+                "date": "May 18, 2023",
+                "comment": "Beware of this company! Do not waste your money. Their current customer service is awful, often referring you to have to \"hire an Expert\" to get your theme even working to a basic point. I purchased mine years back and back then they excelled at helping me to customize it. Not recently. My current theme started to give a bunch of Google Search Console errors and they told me that the only solution was to upgrade to the latest version to get those solved. Ok. After reading these reviews and their notes about this updater app I decided instead to save the money and update it manually. But, even updating the theme manually, their new updated theme is half baked and it needs a lot of coding to get it right to where my previous theme even was. After lots of back and forth (prepare to wait 24-48 hrs for them to get back to you for each response) they would not help even to fix simple issues often referring me to \"hire an Expert\".",
+                "country": "United States",
+                "user": "Health & Light Institute"
+            },
+            {
+                "rating": 2,
+                "date": "Edited May 15, 2023",
+                "comment": "One can only expect that customizations will carry on with the update. This is not what the app does on the FREE version. If you wish to maintain your theme looking sharp, you will have to invest MONTHLY on this app to maintain the latest version of your theme.",
+                "country": "Mexico",
+                "user": "PLOMERIA UNIVERSAL"
+            },
+            {
+                "rating": 5,
+                "date": "May 7, 2023",
+                "comment": "Great customer service!\nByanca went above and beyond to help me and fix whatever I wasn't happy with.",
+                "country": "Canada",
+                "user": "Carolina’s Brownies"
+            },
+            {
+                "rating": 5,
+                "date": "May 5, 2023",
+                "comment": "Very usefull app to upgrade the theme with one mouse click!! It helds us to deliver faster time to market and keep to code base up to date.",
+                "country": "Switzerland",
+                "user": "mojo.swiss"
+            },
+            {
+                "rating": 1,
+                "date": "Edited April 19, 2023",
+                "comment": "If you are looking for somewhere to throw away money, this is it! This app did absolutely NOTHING to preserve my settings or customizations. I bought it because upgrading normally wasn't keeping even some basic settings. Figured this would help. Nope. This was a simple upgraded. Already on shopify 2.0, so not an issue with that.",
+                "country": "United States",
+                "user": "Glowy Zoey"
+            },
+            {
+                "rating": 5,
+                "date": "April 7, 2023",
+                "comment": "We have used this app since its release.\nBe aware of that many 3rd Party Themes does not offer Automatic Theme Updates. You need then to download the newest theme, and do all the customization once again (this can take much time / have a high cost).",
+                "country": "Norway",
+                "user": "ebiketech"
+            },
+            {
+                "rating": 5,
+                "date": "April 5, 2023",
+                "comment": "I have used this app on several occasions and so far it has worked flawlessly. I highly recommend anyone to have this app so they can keep their themes up to day and working properly.",
+                "country": "United States",
+                "user": "Gift Basket Village"
+            },
+            {
+                "rating": 4,
+                "date": "Edited April 5, 2023",
+                "comment": "Me han solucionado el fallo de la aplicación bastante rápido, ahora si que funciona, si bien es cierto que la actualización no es perfecta del todo, requiere algunos ajuste, pero en general mucho mejor. Saludos",
+                "country": "Spain",
+                "user": "PracticOffice"
+            },
+            {
+                "rating": 5,
+                "date": "March 24, 2023",
+                "comment": "This app expedites and eases the process of keeping our theme up-to-date. Customer service is great as well!",
+                "country": "Canada",
+                "user": "Boho Beautiful Shop"
+            },
+            {
+                "rating": 1,
+                "date": "May 24, 2023",
+                "comment": "Worst customer service. I bought their theme 4 years ago for $425. At first you could upgrade for FREE. Now you have to pay $9 to upgrade. Knowing that from July 28, 2022 to November 2022 there were no less than 6 updates of the theme because each time the new updates had bugs.",
+                "country": "France",
+                "user": "Viking Shop"
+            },
+            {
+                "rating": 1,
+                "date": "May 18, 2023",
+                "comment": "Beware of this company! Do not waste your money. Their current customer service is awful, often referring you to have to \"hire an Expert\" to get your theme even working to a basic point. I purchased mine years back and back then they excelled at helping me to customize it. Not recently. My current theme started to give a bunch of Google Search Console errors and they told me that the only solution was to upgrade to the latest version to get those solved. Ok. After reading these reviews and their notes about this updater app I decided instead to save the money and update it manually. But, even updating the theme manually, their new updated theme is half baked and it needs a lot of coding to get it right to where my previous theme even was. After lots of back and forth (prepare to wait 24-48 hrs for them to get back to you for each response) they would not help even to fix simple issues often referring me to \"hire an Expert\".",
+                "country": "United States",
+                "user": "Health & Light Institute"
+            },
+            {
+                "rating": 2,
+                "date": "Edited May 15, 2023",
+                "comment": "One can only expect that customizations will carry on with the update. This is not what the app does on the FREE version. If you wish to maintain your theme looking sharp, you will have to invest MONTHLY on this app to maintain the latest version of your theme.",
+                "country": "Mexico",
+                "user": "PLOMERIA UNIVERSAL"
+            },
+            {
+                "rating": 5,
+                "date": "May 7, 2023",
+                "comment": "Great customer service!\nByanca went above and beyond to help me and fix whatever I wasn't happy with.",
+                "country": "Canada",
+                "user": "Carolina’s Brownies"
+            },
+            {
+                "rating": 5,
+                "date": "May 5, 2023",
+                "comment": "Very usefull app to upgrade the theme with one mouse click!! It helds us to deliver faster time to market and keep to code base up to date.",
+                "country": "Switzerland",
+                "user": "mojo.swiss"
+            },
+            {
+                "rating": 1,
+                "date": "Edited April 19, 2023",
+                "comment": "If you are looking for somewhere to throw away money, this is it! This app did absolutely NOTHING to preserve my settings or customizations. I bought it because upgrading normally wasn't keeping even some basic settings. Figured this would help. Nope. This was a simple upgraded. Already on shopify 2.0, so not an issue with that.",
+                "country": "United States",
+                "user": "Glowy Zoey"
+            },
+            {
+                "rating": 5,
+                "date": "April 7, 2023",
+                "comment": "We have used this app since its release.\nBe aware of that many 3rd Party Themes does not offer Automatic Theme Updates. You need then to download the newest theme, and do all the customization once again (this can take much time / have a high cost).",
+                "country": "Norway",
+                "user": "ebiketech"
+            },
+            {
+                "rating": 5,
+                "date": "April 5, 2023",
+                "comment": "I have used this app on several occasions and so far it has worked flawlessly. I highly recommend anyone to have this app so they can keep their themes up to day and working properly.",
+                "country": "United States",
+                "user": "Gift Basket Village"
+            },
+            {
+                "rating": 4,
+                "date": "Edited April 5, 2023",
+                "comment": "Me han solucionado el fallo de la aplicación bastante rápido, ahora si que funciona, si bien es cierto que la actualización no es perfecta del todo, requiere algunos ajuste, pero en general mucho mejor. Saludos",
+                "country": "Spain",
+                "user": "PracticOffice"
+            },
+            {
+                "rating": 5,
+                "date": "March 24, 2023",
+                "comment": "This app expedites and eases the process of keeping our theme up-to-date. Customer service is great as well!",
+                "country": "Canada",
+                "user": "Boho Beautiful Shop"
+            }
+        ],
+        "creator": {
+            "name": "Out of the Sandbox",
+            "url": "https://apps.shopify.com/partners/out-of-the-sandbox",
+            "averageRating": 3.2,
+            "appCount": 1
+        },
+        "languages": [
+            "English"
+        ],
+        "launchDate": "September 13, 2016",
+        "otherInfo": "Integrates with\nOut of the Sandbox Shopify Themes, Pixel Union Shopify Themes, Archetype Themes"
+    }
+]
